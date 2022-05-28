@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简单比赛计分器</string>
+    <string name="textview1">队伍A</string>
+    <string name="textview2">队伍B</string>
+    <string name="Undo">撤销</string>
+    <string name="Reset">重置</string>
+</resources>

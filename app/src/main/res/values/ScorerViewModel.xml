@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KEY_Ateam_NUMBER" translatable="false">ATeam</string>
+    <string name="KEY_Bteam_NUMBER" translatable="false">BTeam</string>
+    <integer name="DefValue"> 0 </integer>
+</resources>

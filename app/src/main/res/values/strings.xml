@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Easy-Match-Scorer</string>
+    <string name="textview1">TeamA</string>
+    <string name="textview2">TeamB</string>
+    <string name="ScoreA" translatable="false">0</string>
+    <string name="ScoreB" translatable="false">0</string>
+    <string name="TeamA1" translatable="false">+1</string>
+    <string name="TeamA2" translatable="false">+2</string>
+    <string name="TeamA3" translatable="false">+3</string>
+    <string name="TeamB1" translatable="false">+1</string>
+    <string name="TeamB2" translatable="false">+2</string>
+    <string name="TeamB3" translatable="false">+3</string>
+    <string name="Undo">Undo</string>
+    <string name="Reset">Reset</string>
+</resources>
